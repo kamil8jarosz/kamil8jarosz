@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamil8jarosz 🦦
-- 👀 I am interested in data science, machine learning, mathematics, video game design, music theory and psychology.
+- 👀 I am interested in data science, machine learning, cybersecurity, mathematics, video game design, music theory and psychology.
 - 🎓 I have bachelor's degree in Theoretical Computer Science (Jagiellonian Univeristy)
 - 🌱 I am currently learning nonogram solving.
 - 💞️ I am looking to collaborate on all sorts of projects.
